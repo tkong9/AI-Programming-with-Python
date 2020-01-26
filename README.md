@@ -2,10 +2,12 @@
 
 <img src="ai_certificate.png" height="600">
 
+Implemented an image classifier using Convolutional Neural Network. 
+
 Learned in this course:
 
 - Python: data types and operators, control flow, functions, scripting, classes.
-- Anaconda: learned to use Anaconda to manage packages and enviroments for use with Python.
+- Anaconda: learned to use Anaconda to manage packages and environments for use with Python.
 - Numpy: learned the value of NumPy and how to use it to manipulate data for AI problems.
 - Pandas: learned to use Pandas to load and process data for machine learning problems.
 - Matplotlib: learned how to use Matplotlib to choose appropriate plots for one and two variables based on the types of data you have.
